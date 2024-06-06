@@ -1,5 +1,10 @@
 # elctablet-ha
-My Resouces for ELC Tablets, and Home Assistitant
+
+My Resouces for controlling WA Series of tablets from ELC, and quite possibly simialer tablets from other manufacturues, if these instructions worked for you please let me know with an issue with your tablets make and model and i will update the list of tested tablets.
+
+Tested Tablets
+WA5058T
+
 
 This is my resources for ELC tablet and controlling it though home assistant, documents are uploaded in open office format
 
